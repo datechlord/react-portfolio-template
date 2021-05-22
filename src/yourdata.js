@@ -17,7 +17,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Tagen",
   headerTagline: [
     //Line 1 For Header
     "Building digital",
@@ -28,10 +28,10 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Ready to take the next step in your Web development journey, but unsure of which road to take? We can educate and guide you on your Web development path.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "hello@tagen.com",
 
   // End Header Details -----------------------
 
